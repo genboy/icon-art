@@ -1,14 +1,4 @@
-# Pandame!![pandame](https://raw.githubusercontent.com/genboy/icon-art/master/pandame.png)
-
-
-
-
----
-
-
-
-
-### Collection of icon art
+### Icon-art
 
 
 ![love](https://raw.githubusercontent.com/genboy/icon-art/master/heart_pixelart.png)
